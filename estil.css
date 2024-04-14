@@ -1,0 +1,65 @@
+.btn-group {
+    margin: 20px;
+}
+
+.btn {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 12px;
+
+}
+
+#si {
+    background-color: green;
+}
+
+#no {
+    background-color: red;
+}
+
+
+.container {
+    width: 60%;
+    text-align: center;
+    border-radius: 12px;
+    margin: auto;
+}
+
+.alert {
+    width: 60%;
+    margin: auto;
+}
+
+.btn {
+    margin: 20px;
+    padding: 20px;
+}
+
+#blau {
+    background-color: #5f37ff;
+    color: #2c04ce;
+}
+
+#blau h1 {
+    background-color: #b2a6e5;
+}
+
+#blau .alert {
+    background-color: #17077e;
+    color: #abbec0;
+}
+
+#groc {
+    background-color: #f8b90c;
+    color: #969e02;
+}
+
+#groc h1 {
+    background-color: #e4fdaa;
+}
+
+#groc .alert {
+    background-color: #C3Be00;
+    color: #FFFED7;
+}
